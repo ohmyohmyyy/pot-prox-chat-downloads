@@ -2,8 +2,8 @@
     "schemaVersion":  1,
     "service":  "pot-prox-chat",
     "serverId":  "aismr-pot-prox-main",
-    "publicBaseUrl":  "https://kitty-pop-extent-providers.trycloudflare.com",
-    "healthUrl":  "https://kitty-pop-extent-providers.trycloudflare.com/healthz",
-    "voiceUrl":  "https://kitty-pop-extent-providers.trycloudflare.com/voice/",
-    "updatedAt":  "2026-07-20T03:48:44.1997726Z"
+    "publicBaseUrl":  "https://donor-quotes-vitamin-tired.trycloudflare.com",
+    "healthUrl":  "https://donor-quotes-vitamin-tired.trycloudflare.com/healthz",
+    "voiceUrl":  "https://donor-quotes-vitamin-tired.trycloudflare.com/voice/",
+    "updatedAt":  "2026-07-23T17:33:07.7172103Z"
 }
