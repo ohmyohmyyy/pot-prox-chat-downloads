@@ -2,8 +2,8 @@
     "schemaVersion":  1,
     "service":  "pot-prox-chat",
     "serverId":  "aismr-pot-prox-main",
-    "publicBaseUrl":  "https://perspectives-extend-dee-antonio.trycloudflare.com",
-    "healthUrl":  "https://perspectives-extend-dee-antonio.trycloudflare.com/healthz",
-    "voiceUrl":  "https://perspectives-extend-dee-antonio.trycloudflare.com/voice/",
-    "updatedAt":  "2026-08-17T20:52:41.2960135Z"
+    "publicBaseUrl":  "https://jurassicchat.com",
+    "healthUrl":  "https://jurassicchat.com/healthz",
+    "voiceUrl":  "https://jurassicchat.com/voice/",
+    "updatedAt":  "2026-08-20T15:02:16.3001446Z"
 }
